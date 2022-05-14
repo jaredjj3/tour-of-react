@@ -1,3 +1,3 @@
-# react-ts-byykdt
+# tour-of-react
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-byykdt)
+[Fork on StackBlitz ⚡️](https://stackblitz.com/fork/tour-of-react)

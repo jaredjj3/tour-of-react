@@ -1,12 +1,12 @@
 import * as React from 'react';
 import { Button } from '@mui/material';
+import styled from '@emotion/styled';
+import { BrowserRouter } from 'react-router-dom';
 
 export const App = () => {
   return (
-    <div>
-      <h1>Hello StackBlitz!</h1>
-      <p>Start editing to see some magic happen :)</p>
-      <Button>foo</Button>
-    </div>
+    <BrowserRouter>
+      Hello, world!
+    </BrowserRouter>
   );
 }

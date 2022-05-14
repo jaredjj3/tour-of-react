@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { Button } from '@mui/material';
 
-export default function App() {
+export const App = () => {
   return (
     <div>
       <h1>Hello StackBlitz!</h1>
